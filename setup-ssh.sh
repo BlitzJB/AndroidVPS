@@ -2,7 +2,7 @@
 
 # you need to type this in manually to get started with ssh on your server
 
-sudo apt upgrade && sudo apt update # dont skip this or install openssh-server will fail
+sudo apt update && sudo apt upgrade # dont skip this or install openssh-server will fail
 
 sudo apt install nano
 
